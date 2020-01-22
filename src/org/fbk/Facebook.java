@@ -15,6 +15,9 @@ public class Facebook {
 		
 		driver.getTitle();
 		
+		driver.getCurrentUrl();
+		
+		driver.quit();
 		
 		
 	}
